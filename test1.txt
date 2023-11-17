@@ -1,2 +1,4 @@
 # Marsca -> Farsca Sozluk
 may the force be with you -> merhaba
+
+tarih: may the 4th (be with you)
